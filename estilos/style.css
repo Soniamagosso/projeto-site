@@ -3,11 +3,11 @@
     font-size: 16px;
 }
 body {
-    background-color: paleturquoise(204, 157, 248);
+    background-color: paleturquoise;
 }
 main {
     background-color: seashell;
-    width: 508px;
+    width: 1000px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.562);
